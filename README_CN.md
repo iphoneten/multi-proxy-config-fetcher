@@ -40,7 +40,7 @@ Web 界面提供：
 </div>
 
 ### 详细分析
-📊 [查看完整交互式仪表板](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [查看完整交互式仪表板](https://htmlpreview.github.io/?https://github.com/iphoneten/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
 
 > **对于 Fork 的仓库的重要提示**：  
 > 如果你 fork 了此仓库，请在上面的仪表板链接中将 `4n0nymou3` 替换为你的 GitHub 用户名，以访问你自己的分析仪表板。

@@ -40,7 +40,7 @@ Real-time performance statistics of all configured sources (Telegram channels an
 </div>
 
 ### Detailed Analytics
-📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/iphoneten/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
 
 > **Important for Forked Repositories**:  
 > If you fork this repository, replace `4n0nymou3` in the dashboard link above with your GitHub username to access your own analytics dashboard.
